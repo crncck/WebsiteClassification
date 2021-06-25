@@ -6,16 +6,18 @@ To build a website classification model, we used the DMOZ dataset which is a lar
 
 
 
-**Ayşe Ceren Çiçek:**  * Text Preprocessing with spaCy
-			* Logistic Regression Model
-			* Decision Tree Model
-			* Multinomial Naive Bayes Model
+**[Ayşe Ceren Çiçek]**(https://github.com/crncck)  
+* Text Preprocessing with spaCy
+* Logistic Regression Model
+* Decision Tree Model
+* Multinomial Naive Bayes Model
 
 
 
-**Gizem Kurnaz:** Text Preprocessing with NLTK
-							Cross-Validation
-							Multinomial Naive Bayes Classifier Model
-							Logistic Regression Model
-							Decision Tree Classifier Model
-							Random Forest Classifier Model
+**[Gizem Kurnaz]**(https://github.com/gizemkurnaz) 
+* Text Preprocessing with NLTK
+* Cross-Validation
+* Multinomial Naive Bayes Classifier Model
+* Logistic Regression Model
+* Decision Tree Classifier Model
+* Random Forest Classifier Model
