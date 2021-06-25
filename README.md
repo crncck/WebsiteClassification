@@ -2,11 +2,11 @@
 
 To build a website classification model, we used the DMOZ dataset which is a large communally maintained open directory that categorizes web content. DMOZ closed in 2017 because AOL no longer wished to support the project. We found the split version of the dataset in a Github repository. 
 
-**[Dataset]**(https://github.com/ALSAREM/dmozNeo4j)
+**[Dataset](https://github.com/ALSAREM/dmozNeo4j)**
 
 
 
-**[Ayşe Ceren Çiçek]**(https://github.com/crncck)  
+**[Ayşe Ceren Çiçek](https://github.com/crncck)**  
 * Text Preprocessing with spaCy
 * Logistic Regression Model
 * Decision Tree Model
@@ -14,7 +14,7 @@ To build a website classification model, we used the DMOZ dataset which is a lar
 
 
 
-**[Gizem Kurnaz]**(https://github.com/gizemkurnaz) 
+**[Gizem Kurnaz](https://github.com/gizemkurnaz)**
 * Text Preprocessing with NLTK
 * Cross-Validation
 * Multinomial Naive Bayes Classifier Model
